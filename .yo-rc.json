@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "SkillAssessmentApp",
+    "packageName": "com.yash.skills.portal",
+    "packageFolder": "com/yash/skills/portal",
+    "serverPort": 888,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MjVlMDJhZjViMzg3NDhkYzM2MDUxYTE3MzU2NTRmYWM4OGQwOTczZjkyZjdjZjkyNjIwYmYyZGU4MDA0Y2VhNTA4N2RkZGU1ZTViZjFmZTg1MTI1ZTZhMzIxMzZjZjUxNDg4ODMxZWM4MzZkNzNhZTcyZmJjMWQzMGViZjU2YTg=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ashishmishrayash",
+  "repository-name": "yash-skill-assessment"
+}
